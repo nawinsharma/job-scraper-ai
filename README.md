@@ -63,6 +63,12 @@ Results are saved to dynamically named files based on the job title:
 
 Job titles are sanitized for filenames (spaces and special characters become underscores).
 
+
+
+https://github.com/user-attachments/assets/2d50e0de-b198-4930-9638-ab056cb2516c
+
+
+
 ## Workflow Diagram
 
 ```
